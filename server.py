@@ -3,7 +3,7 @@ from enum import Enum
 
 import pandas as pd
 import yfinance as yf
-from mcp.server.fastmcp import FastMCP
+from fastmcp import FastMCP
 
 
 # Define an enum for the type of financial statement
